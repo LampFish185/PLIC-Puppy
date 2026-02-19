@@ -1,0 +1,2 @@
+In higher dimensions (which your 64-dim vectors live in):
+norm² = ∑ xᵢ² → Pythagoras holds for any number of orthogonal dimensions.
